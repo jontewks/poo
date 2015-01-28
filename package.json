@@ -1,0 +1,14 @@
+{
+  "name": "poo",
+  "version": "1.0.1",
+  "description": "Comical poo based functionality",
+  "main": "poo.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "poo"
+  ],
+  "author": "Jon Tewksbury <jontewks@gmail.com> (http://www.jontewks.com)",
+  "license": "MIT"
+}
