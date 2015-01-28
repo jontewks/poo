@@ -1,6 +1,8 @@
 # poo.js
 
-A library for when you really need poo.
+```javascript
+npm install poo
+```
 
 ### Usage
 ##### Require the module
@@ -13,7 +15,12 @@ var poo = require('poo');
 <script type="text/javascript" src="./poo.js"></script>
 ```
 
-##### Basic 5
+##### Basic Use
 ```javascript
 poo();
+```
+
+##### Additional Functionality
+```javascript
+poo.thesaurus();
 ```
