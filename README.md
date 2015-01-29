@@ -15,7 +15,7 @@ var poo = require('poo');
 <script type="text/javascript" src="./poo.js"></script>
 ```
 
-##### Basic Use
+##### Functionality
 ```javascript
 poo();
 //     (   )   
@@ -26,9 +26,12 @@ poo();
 // (____\\___))
 ```
 
-##### Additional Functionality
 ```javascript
 poo.thesaurus(); // "excrement"
 poo.thesaurus(); // "feculence"
 poo.thesaurus(); // "deuce"
+```
+
+```javascript
+poo.palindrome(); // "poop"
 ```
