@@ -18,9 +18,17 @@ var poo = require('poo');
 ##### Basic Use
 ```javascript
 poo();
+//     (   )   
+//  (   ) (    
+//   ) _   )   
+//    ( \\_    
+//  _(_\\ \\)__
+// (____\\___))
 ```
 
 ##### Additional Functionality
 ```javascript
-poo.thesaurus();
+poo.thesaurus(); // "excrement"
+poo.thesaurus(); // "feculence"
+poo.thesaurus(); // "deuce"
 ```

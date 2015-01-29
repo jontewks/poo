@@ -14,6 +14,10 @@
     return words[index];
   };
 
+  poo.palindrome = function() {
+    return 'poop';
+  };
+
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = poo;
   } else if (window) {
