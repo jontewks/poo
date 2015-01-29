@@ -1,6 +1,6 @@
 {
   "name": "poo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Comical poo based functionality",
   "main": "poo.js",
   "scripts": {
