@@ -15,20 +15,14 @@ var poo = require('poo');
 ##### Functionality
 ```javascript
 poo();
-//     (   )   
-//  (   ) (    
-//   ) _   )   
-//    ( \\_    
-//  _(_\\ \\)__
-// (____\\___))
-```
+// Will draw you a picture of poo in the console.
 
-```javascript
-poo.thesaurus(); // "excrement"
-poo.thesaurus(); // "feculence"
-poo.thesaurus(); // "deuce"
-```
+poo.thesaurus();
+// Returns a random synonym for poo.
 
-```javascript
-poo.palindrome(); // "poop"
+poo.palindrome();
+// "poop"
+
+poo.fact();
+// Returns a random fact about poo!
 ```
