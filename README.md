@@ -12,11 +12,6 @@ npm install poo
 var poo = require('poo');
 ```
 
-##### In the browser
-```html
-<script type="text/javascript" src="./poo.js"></script>
-```
-
 ##### Functionality
 ```javascript
 poo();
