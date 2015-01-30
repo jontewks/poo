@@ -5,6 +5,10 @@ A friend told me that there were no more three or four letter word npm module na
 ```javascript
 npm install poo
 ```
+or 
+```javascript
+bower install poo
+```
 
 ### Usage
 ##### Require the module
