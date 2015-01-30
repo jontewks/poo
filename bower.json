@@ -1,0 +1,25 @@
+{
+  "name": "poo",
+  "main": "poo.js",
+  "version": "1.0.4",
+  "homepage": "https://github.com/jontewks/poo",
+  "authors": [
+    "Jon Tewksbury <jontewks@gmail.com>"
+  ],
+  "description": "Comical poo based funcitonality.",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "poo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
