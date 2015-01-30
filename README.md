@@ -1,5 +1,7 @@
 # poo.js
 
+A friend told me that there were no more three or four letter word npm module names available. I found poo was available, so this is my attempt to actually do something with it. What now Alex?!
+
 ```javascript
 npm install poo
 ```
