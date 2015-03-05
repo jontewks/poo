@@ -1,7 +1,7 @@
 {
   "name": "poo",
   "main": "poo.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/jontewks/poo",
   "authors": [
     "Jon Tewksbury <jontewks@gmail.com>"
