@@ -25,7 +25,7 @@ poo.thesaurus();
 // Returns a random synonym for poo.
 
 poo.palindrome();
-// "poop"
+// Returns a palindrome for poop.
 
 poo.fact();
 // Returns a random fact about poo!
