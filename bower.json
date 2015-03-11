@@ -1,6 +1,6 @@
 {
   "name": "poo",
-  "main": "poo.js",
+  "main": "index.js",
   "version": "1.0.5",
   "homepage": "https://github.com/jontewks/poo",
   "authors": [

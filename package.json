@@ -2,7 +2,7 @@
   "name": "poo",
   "version": "1.0.5",
   "description": "Comical poo based functionality",
-  "main": "poo.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
