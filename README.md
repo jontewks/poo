@@ -29,4 +29,7 @@ poo.palindrome();
 
 poo.fact();
 // Returns a random fact about poo!
+
+poo.translate();
+// Returns a random translation of poo!
 ```
