@@ -31,7 +31,12 @@
       'manure',
       'number two',
       'stool',
-      'waste'
+      'waste',
+      'diarrhea',
+      'doo-doo',
+      'poopies',
+      'log',
+      'scat'
     ];
     return pickRandomItem(words);
   };
@@ -51,9 +56,38 @@
       'The average American man excretes 150 grams (about one-third of a pound) of stool every day, or the equivalent of 5 tons in a lifetime!',
       'Digestion normally takes anywhere from 24 to 72 hours. Diarrhea is the result of stool passing too quickly through the large intestine, where most of the water content is absorbed. Constipation, on the other hand, is when it takes too long for stool to pass through.',
       'It\'s normal to pass gas anywhere from 10 to 18 times a day, according to the American College of Gastroenterology.',
-      'Poo transplants, where stool from a healthy person is placed in the colon of an infected person, have helped treat bouts of recurrent diarrhea associated with a C. difficile bacterial infection. Such transplants have also effectively treated inflammatory bowel disease (IBD).'
+      'Poo transplants, where stool from a healthy person is placed in the colon of an infected person, have helped treat bouts of recurrent diarrhea associated with a C. difficile bacterial infection. Such transplants have also effectively treated inflammatory bowel disease (IBD).',
+      'Poo comes out of your butt.',
+      'The practice of eating poop, known as coprophagia, is common in the animal kingdom.'
     ];
     return pickRandomItem(facts);
+  }
+
+  poo.translate = function() {
+    var translations = [
+      'какашки', // Russia
+      'puh', // German
+      'poo', // Irish
+      'cacca', // Italian
+      'うんち', // Japanese
+      'poo', // Samali
+      'пәк', // Kazakh
+      'poep', // Dutch
+      'баас', // Mongolian
+      'kupa', // Polish
+      '便便', // Chinese
+      '똥', // Korean
+      'ფუ', // Georgian
+      'צואה', // Hebrew
+      'పూ', // Telugu
+      'மலம்', // Tamil
+      'pùd', // Scottish Gaelic
+      'ਪੂ', // Punjabi
+      'ពូ', // Khmer
+      'پو', // Persian
+      'براز' // Arabic
+    ];
+    return pickRandomItem(translations);
   }
 
   if (typeof module !== 'undefined' && module.exports) {
